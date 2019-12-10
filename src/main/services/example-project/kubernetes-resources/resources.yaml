@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: example-project
-        image: main-foo-bundle/example-project:0.1.0-rc11
+        image: main-foo-bundle/example-project:0.1.0-FINAL
         ports:
         - containerPort: 8080
